@@ -1,12 +1,7 @@
+import CompaniesPage from "./pages/CompaniesPage";
 
 function App() {
-  
-
-  return (
-    <>
-     <h1 className="text-red-200">hello Bimal!</h1>
-    </>
-  )
+  return <CompaniesPage />;
 }
 
-export default App
+export default App;
