@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "TechCorp Solutions", "location": "San Francisco, CA", "industry": "Technology", "employees": 250, "founded": 2015 },
+  { "id": 2, "name": "Global Finance Ltd", "location": "New York, NY", "industry": "Finance", "employees": 500, "founded": 2010 },
+  { "id": 3, "name": "HealthCare Plus", "location": "Boston, MA", "industry": "Healthcare", "employees": 180, "founded": 2018 },
+  { "id": 4, "name": "EduTech Innovations", "location": "Austin, TX", "industry": "Education", "employees": 120, "founded": 2019 },
+  { "id": 5, "name": "RetailMax Inc", "location": "Chicago, IL", "industry": "Retail", "employees": 350, "founded": 2012 },
+  { "id": 6, "name": "Manufacturing Pro", "location": "Detroit, MI", "industry": "Manufacturing", "employees": 420, "founded": 2008 },
+  { "id": 7, "name": "FoodTech Ventures", "location": "Los Angeles, CA", "industry": "Food & Beverage", "employees": 95, "founded": 2020 },
+  { "id": 8, "name": "Energy Solutions Co", "location": "Houston, TX", "industry": "Energy", "employees": 280, "founded": 2013 },
+  { "id": 9, "name": "Media Dynamics", "location": "New York, NY", "industry": "Media", "employees": 150, "founded": 2016 },
+  { "id": 10, "name": "CloudServe Inc", "location": "Seattle, WA", "industry": "Technology", "employees": 200, "founded": 2017 },
+  { "id": 11, "name": "BioResearch Labs", "location": "San Diego, CA", "industry": "Healthcare", "employees": 140, "founded": 2014 },
+  { "id": 12, "name": "Investment Partners", "location": "Boston, MA", "industry": "Finance", "employees": 75, "founded": 2019 },
+  { "id": 13, "name": "Auto Innovate", "location": "Detroit, MI", "industry": "Manufacturing", "employees": 380, "founded": 2011 },
+  { "id": 14, "name": "Fashion Forward", "location": "Los Angeles, CA", "industry": "Retail", "employees": 110, "founded": 2018 },
+  { "id": 15, "name": "DataStream Analytics", "location": "San Francisco, CA", "industry": "Technology", "employees": 160, "founded": 2020 },
+  { "id": 16, "name": "GreenEnergy Corp", "location": "Portland, OR", "industry": "Energy", "employees": 190, "founded": 2015 },
+  { "id": 17, "name": "LearnSmart Platform", "location": "Austin, TX", "industry": "Education", "employees": 85, "founded": 2021 },
+  { "id": 18, "name": "Culinary Creations", "location": "Chicago, IL", "industry": "Food & Beverage", "employees": 130, "founded": 2017 },
+  { "id": 19, "name": "StreamMedia Group", "location": "Los Angeles, CA", "industry": "Media", "employees": 220, "founded": 2014 },
+  { "id": 20, "name": "FinTech Solutions", "location": "New York, NY", "industry": "Finance", "employees": 310, "founded": 2016 }
+]
